@@ -1,6 +1,6 @@
 ## Introduction
 
-IPTVAgent is a agent tool,which can be used to gather system information, e.g. CPU,Memory,Load, and application status, e.g.nginx,mysql,etc. The results can be pushed to remote mysql server.It can also receive remote server's command and execute the command. Here are some functions of IPTVAgent:
+IPTVAgent is an agent tool,which can be used to gather system information, e.g. CPU,Memory,Load, and application status, e.g.nginx,mysql,etc. The results can be pushed to remote mysql server.It can also receive remote server's command and execute the command. Here are some functions of IPTVAgent:
 
 * System information collection
 * Process status information collection
